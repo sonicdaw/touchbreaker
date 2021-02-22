@@ -2,6 +2,9 @@
 
 90's puzzle game for MSX (マイコンBASICマガジン 1988年12月号掲載)
 
+<img src="https://user-images.githubusercontent.com/29959410/108715545-5cd87f80-755e-11eb-86be-1f5e2e53c3da.png" width="360">
+
+
 [Play on WebMSX]
 
 http://webmsx.org/?MACHINE=MSX1J&DISK=https://entatonic.net/msx/touchbreaker.dsk
@@ -20,17 +23,12 @@ http://webmsx.org/?MACHINE=MSX1J&DISK=https://entatonic.net/msx/touchbreaker.dsk
 
 [操作方法]
 
-
 Game Start: Space Key
-
 
 Stage(Step) select: Up, Down, Space Key
 
-
 Move: Up, Down, Right, Left key
 
-
 Give Up(Retry): Space Key
-
 
 Back to Stage select: R Key
